@@ -21,7 +21,7 @@ export default function Home() {
             </div>
             
             <h1 className="text-5xl sm:text-7xl font-extrabold tracking-tight text-[#22989D]">
-              안녕하세요,<br />jaeun입니다
+              안녕하세요,<br />김재언입니다
             </h1>
             
             <p className="max-w-2xl mx-auto text-lg sm:text-xl text-gray-400 font-light leading-relaxed">

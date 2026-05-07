@@ -20,8 +20,8 @@ export default function Home() {
               <span className="text-sm font-medium tracking-wider text-gray-300">SYSTEM INITIALIZED</span>
             </div>
             
-            <h1 className="text-5xl sm:text-7xl font-extrabold tracking-tight text-transparent bg-clip-text bg-gradient-to-r from-purple-400 via-pink-400 to-blue-400">
-              안녕하세요, jaeun입니다
+            <h1 className="text-5xl sm:text-7xl font-extrabold tracking-tight text-[#22989D]">
+              안녕하세요,<br />jaeun입니다
             </h1>
             
             <p className="max-w-2xl mx-auto text-lg sm:text-xl text-gray-400 font-light leading-relaxed">
